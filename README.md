@@ -7,7 +7,7 @@ This project implements a real-time rendering pipeline using Vulkan, featuring t
 - Vulkan-based real-time renderer
 - Sponza scene rendering (complex geometry & lighting)
 - GPU memory management using Vulkan buffers and images
-- 
+
 ## 🧠 Motivation
 The goal of this project is to build a rendering pipeline and understand the mechanisms behind Vulkan graphics rendering
 
@@ -18,7 +18,9 @@ The goal of this project is to build a rendering pipeline and understand the mec
 - **Build System:** CMake / Visual Studio
 
 ## 🖼️ Demo
-(Add screenshots or GIFs here)
+![Sponza Screenshot](assets/sponza_complete.png)
+![Sponza Screenshot](assets/sponza_diffuse.png)
+![Sponza Screenshot](assets/sponza_normal.png)
 
 ## ⚙️ Setup & Installation
 
