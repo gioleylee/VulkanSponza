@@ -18,9 +18,9 @@ The goal of this project is to build a rendering pipeline and understand the mec
 - **Build System:** CMake / Visual Studio
 
 ## 🖼️ Demo
-![Sponza Screenshot](assets/sponza_complete.png)
-![Sponza Screenshot](assets/sponza_diffuse.png)
-![Sponza Screenshot](assets/sponza_normal.png)
+![Sponza Screenshot](VulkanTest/assets/sponza_complete.png)
+![Sponza Screenshot](VulkanTest/assets/sponza_diffuse.png)
+![Sponza Screenshot](VulkanTest/assets/sponza_normal.png)
 
 ## ⚙️ Setup & Installation
 
