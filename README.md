@@ -19,8 +19,11 @@ The goal of this project is to build a rendering pipeline and understand the mec
 
 ## 🖼️ Demo
 ![Sponza Screenshot](VulkanTest/assets/sponza_complete.png)
+Complete Sponza
 ![Sponza Screenshot](VulkanTest/assets/sponza_diffuse.png)
+Diffuse Sponza
 ![Sponza Screenshot](VulkanTest/assets/sponza_normal.png)
+Normal Color Sponza
 
 ## ⚙️ Setup & Installation
 
